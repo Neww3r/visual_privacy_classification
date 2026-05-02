@@ -86,7 +86,7 @@ data/
 └── scenes_privacyalert.zip
 ```
 
-For this project, use only the **PrivacyAlert** part of the data.
+For this project, use only the **PrivacyAlert** part of the data from the Zenodo repository of their paper.
 
 Do not use:
 
@@ -95,8 +95,6 @@ Do not use:
 - IPD;
 - graph data;
 - original images.
-
-Unless the teacher explicitly asks for it.
 
 ---
 
@@ -365,7 +363,7 @@ Therefore, the **recall of the private class** is a central metric.
 
 ## Suggested project topics
 
-Each group should focus on one of the following questions.
+Each group should focus on at least two of the following questions.
 
 ### Topic 1 — User tags vs deep tags
 
